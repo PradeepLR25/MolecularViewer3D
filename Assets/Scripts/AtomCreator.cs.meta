@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc6251d37db5748b8a4e4223fb2d0c11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Atom1: {fileID: 7534764687146977177, guid: 9f7d540846d45426db9a7b454c29d30d, type: 3}
+  - Bond: {fileID: 4212625514194254707, guid: a54b52d517b6f4f349ab9ebf5d10555e, type: 3}
+  - CameraCenter: {fileID: 6108863801129485312, guid: 59dcc15e08d564b63b1403468d33574d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
